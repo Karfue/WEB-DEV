@@ -1,0 +1,32 @@
+# Node.js
+node_modules/
+
+# npm logs
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Environment files
+.env
+
+# Build output
+dist/
+build/
+
+# Dependency directories
+jspm_packages/
+
+# IDE/editor specific
+.vscode/
+.idea/
+
+# MacOS files
+.DS_Store
+
+# Linux specific
+*~
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+
